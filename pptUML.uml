@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/home/ALU1K/IdeaProjects/ppt</OriginalElement>
+  <nodes>
+    <node x="686.0" y="34.0">Game</node>
+    <node x="478.0" y="96.5">Move</node>
+    <node x="166.0" y="-16.0">MoveWords</node>
+    <node x="-71.0" y="84.0">Parser</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.2854311199207136" showDependencies="false" x="433.5" y="174.00000000000003" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
